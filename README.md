@@ -3,7 +3,7 @@ Fish Survival - A 2D survival game where you control a fish, avoid predators, an
 
 ## 📸 Screenshot  
 
-[Screenshot](https://raw.githubusercontent.com/Informal061/eatordie/refs/heads/main/screenshots/screenshot.jpg)
+[![Screenshot](https://raw.githubusercontent.com/Informal061/eatordie/refs/heads/main/screenshots/screenshot.jpg)]
 
 ## 🕹️ Gameplay  
 - Move your fish using arrow keys or WASD.  
