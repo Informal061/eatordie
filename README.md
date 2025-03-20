@@ -41,6 +41,6 @@ The following scripts provide insight into the game’s AI and aquarium system:
 
 
 ## 🎮 Play on Steam  
-[![Play on Steam](https://store.steampowered.com/app/1425390/Eat_or_DIE/)  
+[![Play on Steam](https://cdn.akamai.steamstatic.com/steam/apps/1425390/header.jpg)](https://store.steampowered.com/app/1425390/)
 
 
