@@ -1,5 +1,7 @@
 # Eat or DIE!
-Fish Survival - A 2D survival game where you control a fish, avoid predators, and eat smaller fish to grow. Also managing an aquarium.
+Fish Survival - A 2D survival game where you control a fish, avoid predators, and eat smaller fish to grow. Also, manage an aquarium.
+
+## 📸 Screenshot  
 
 ## 🕹️ Gameplay  
 - Move your fish using arrow keys or WASD.  
@@ -25,7 +27,20 @@ Fish Survival - A 2D survival game where you control a fish, avoid predators, an
 ✔️ Manage your own aquarium
 
 
+## 🔧 Development & Technologies  
+This game was developed using **C# and Unity**.  
+Some **core scripts** are shared in this repository, showcasing key mechanics such as fish movement, AI behavior, and aquarium management.  
+
+## 📜 Sample Scripts Included  
+The following scripts provide insight into the game’s AI and aquarium system:  
+- `EnemyAI.cs` → Controls fish behavior in the survival mode.  
+- `FishAI_Aquarium.cs` → Handles AI behavior of fish inside the aquarium.  
+- `DayHandler.cs` → Manages the day and events inside the aquarium.  
+- `Aquarium_gameHandler.cs` → Oversees the overall aquarium mechanics and interactions.
 
 
+
+## 🎮 Play on Steam  
+[![Play on Steam](https://store.steampowered.com/app/1425390/Eat_or_DIE/)  
 
 
