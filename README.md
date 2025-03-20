@@ -40,6 +40,8 @@ The following scripts provide insight into the game’s AI and aquarium system:
 - `DayHandler.cs` → Manages the day and events inside the aquarium.  
 - `Aquarium_gameHandler.cs` → Oversees the overall aquarium mechanics and interactions.
 
+⚠️ **Note:** This repository **only contains example scripts** and does not include the full game project.
+
 
 
 ## 🎮 Play on Steam  
